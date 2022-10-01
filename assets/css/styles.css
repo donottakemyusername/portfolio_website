@@ -1256,6 +1256,10 @@ img {
     .footer__copy {
       margin-top: 4.5rem;
     }
+    .footer__subtitle,
+    .footer__title {
+      margin-top: -7.8px;
+    }
   }
 }
 
